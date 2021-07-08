@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geekmeak
+- 👋 Hi, I’m Asheesh Kumar (@geekmeak)
 - 👀 I’m interested in Machine Learning and data science
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on AI Projects
